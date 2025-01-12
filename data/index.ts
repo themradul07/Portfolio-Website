@@ -85,7 +85,7 @@ export const navItems = [
       des: "A replica of Cyberfiction with GSAP animations, showcasing its design, functionality, and interactive features.",
       img: "/p2.png",
       iconLists: ["/tail.svg", "/gsap.svg"],
-      link: "https://github.com/adrianhajdin/zoom-clone",
+      link: "https://cyberfiction07.netlify.app/",
     },
     {
       id: 3,
@@ -101,7 +101,7 @@ export const navItems = [
       des: "Made with TailwindCSS",
       img: "/p4.png",
       iconLists: ["/re.svg", "/tail.svg"],
-      link: "https://github.com/adrianhajdin/iphone",
+      link: "https://xclonetailwind.netlify.app",
     },
   ];
   
