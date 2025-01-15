@@ -77,7 +77,7 @@ export const navItems = [
 ,
       img: "/p1.png",
       iconLists: ["/re.svg", "/Vite.svg",],
-      link: "https://github.com/adrianhajdin?tab=repositories",
+      link: "https://passopmradul.netlify.app/",
     },
     {
       id: 2,   
@@ -93,7 +93,7 @@ export const navItems = [
       des: " A website to play music online anytime of different artist with seekbar , volume adjuster.",
       img: "/p3.png",
       iconLists: ["html.svg" , "css.svg", "js.svg"],
-      link: "https://github.com/adrianhajdin/ai_saas_app",
+      link: "https://github.com/themradul07/Spotify",
     },
     {
       id: 4,
