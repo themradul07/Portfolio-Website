@@ -72,6 +72,15 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
+      title: "BietHub - Website to manage events",
+      des : "A website to manage events and activities, allowing users to create, join, and manage events seamlessly.",
+
+      img: "/BietHub.png",
+      iconLists: ["/re.svg", "/Vite.svg","/mongodb.svg", "/expressjs.svg", "/node.svg"],
+      link: "https://eventmanagementdevloop.netlify.app/",
+    },
+    {
+      id: 2,
       title: "PassOP - ( Manager of Confidential ) ",
       des : 'A simple password manager application named "PassOP" that allows users to securely store and manage passwords for various websites.'
 ,
@@ -80,7 +89,7 @@ export const navItems = [
       link: "https://passopmradul.netlify.app/",
     },
     {
-      id: 2,   
+      id: 3,   
       title: "Cyberfiction clone",
       des: "A replica of Cyberfiction with GSAP animations, showcasing its design, functionality, and interactive features.",
       img: "/p2.png",
@@ -88,21 +97,14 @@ export const navItems = [
       link: "https://cyberfiction07.netlify.app/",
     },
     {
-      id: 3,
+      id: 4,
       title: "Spotify - Webplayer : music for everyone",
       des: " A website to play music online anytime of different artist with seekbar , volume adjuster.",
       img: "/p3.png",
       iconLists: ["html.svg" , "css.svg", "js.svg"],
       link: "https://github.com/themradul07/Spotify",
     },
-    {
-      id: 4,
-      title: "X : Share your opinions",
-      des: "Made with TailwindCSS",
-      img: "/p4.png",
-      iconLists: ["/re.svg", "/tail.svg"],
-      link: "https://xclonetailwind.netlify.app",
-    },
+    
   ];
   
   export const testimonials = [
