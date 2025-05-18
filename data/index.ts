@@ -76,7 +76,7 @@ export const navItems = [
       des : "A website to manage events and activities, allowing users to create, join, and manage events seamlessly.",
 
       img: "/BietHub.png",
-      iconLists: ["/re.svg", "/Vite.svg","/mongodb.svg", "/expressjs.svg", "/node.svg"],
+      iconLists: ["/re.svg", "/mongodb.svg", "/expressjs.svg", "/node.svg"],
       link: "https://eventmanagementdevloop.netlify.app/",
     },
     {
@@ -98,10 +98,10 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "Spotify - Webplayer : music for everyone",
-      des: " A website to play music online anytime of different artist with seekbar , volume adjuster.",
-      img: "/p3.png",
-      iconLists: ["html.svg" , "css.svg", "js.svg"],
+      title: "ChessMate - Chess Game",
+      des: "A chess game application that allows users to play chess online with friends or against AI.",
+      img: "/ChessMasters.png",
+      iconLists: ["SocketIo.svg" , "/node.svg", "/ejs.svg" , "/expressjs.svg"],
       link: "https://github.com/themradul07/Spotify",
     },
     
